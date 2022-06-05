@@ -164,7 +164,7 @@ hrule height 1mm}%
 \begin_layout Standard
 \align left
 \begin_inset Tabular
-<lyxtabular version="3" rows="32" columns="2">
+<lyxtabular version="3" rows="30" columns="2">
 <features booktabs="true" islongtable="true" longtabularalignment="center">
 <column alignment="left" valignment="top" width="4cm">
 <column alignment="left" valignment="top" width="14cm">
@@ -1449,6 +1449,10 @@ Attended
 \begin_inset Text
 
 \begin_layout Itemize
+APS April meeting in New York City.
+\end_layout
+
+\begin_layout Itemize
 Advances in Computational Relativity at ICERM, Brown University (September
  9, 2020 - December 11, 2020)
 \end_layout
@@ -1624,81 +1628,10 @@ hrule height 1mm}%
 
 \series bold
 Available on request
-\end_layout
+\series default
 
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-\align left
-
-\series bold
-\bar under
-References
-\bar default
-:
-\begin_inset Newline newline
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-{
-\backslash
-color{mycolor}
-\backslash
-hrule height 1mm}%
-\end_layout
-
-\end_inset
-
-
-\begin_inset Newline newline
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-Available on request
-\end_layout
-
-\begin_layout Plain Layout
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Enumerate
 
