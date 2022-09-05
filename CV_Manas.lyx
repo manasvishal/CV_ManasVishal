@@ -344,8 +344,8 @@ EMRI surrogate modeling and late time Kerr tails with spinning primary Black
 
 \size small
 Dr.
- Gaurav Khanna and Dr.
- Scott Field, UMass Dartmouth
+ Scott Field and Dr.
+ Gaurav Khanna, UMass Dartmouth
 \series default
 \size default
 
@@ -1008,6 +1008,10 @@ Department
 \end_inset
 
 
+\series bold
+CGPA:-
+\series default
+ 4.0/4.0 
 \begin_inset Newline linebreak
 \end_inset
 
@@ -1056,7 +1060,7 @@ Department
 \series bold
 CGPA:-
 \series default
- 8.4 
+ 8.4/10.0 
 \begin_inset Newline linebreak
 \end_inset
 
@@ -1449,6 +1453,10 @@ Attended
 \begin_inset Text
 
 \begin_layout Itemize
+Capra 25 Workshop
+\end_layout
+
+\begin_layout Itemize
 APS April meeting in New York City.
 \end_layout
 
@@ -1518,6 +1526,15 @@ Talks given
 </cell>
 <cell alignment="center" valignment="top" usebox="none">
 \begin_inset Text
+
+\begin_layout Itemize
+Presented my work at the Numerical Relativity Community Summer School at
+ ICERM, Brown University in Providence, Rhode Island, USA
+\end_layout
+
+\begin_layout Itemize
+Presented my work virtually at the Capra 25 held in Dublin, Ireland.
+\end_layout
 
 \begin_layout Itemize
 Presented my Ph.D.

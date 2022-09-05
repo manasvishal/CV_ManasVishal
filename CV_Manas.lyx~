@@ -131,8 +131,8 @@ Profile:
 \series default
 \bar default
  Ph.D.
- student in Computational Sciences at the University of Massachusetts Dartmouth.B
-roadly interested in General Relatvitity and High Performance Computing.
+ student in Computational Sciences at the University of Massachusetts Dartmouth.
+ Broadly interested in General Relativity and High Performance Computing.
  Currently working as a Distinguished Doctoral Fellow in the Engineering
  and Applied Sciences program with a focus on modeling gravitational waves
  from extreme mass ratio black hole binaries using advanced numerical and
@@ -344,8 +344,8 @@ EMRI surrogate modeling and late time Kerr tails with spinning primary Black
 
 \size small
 Dr.
- Gaurav Khanna and Dr.
- Scott Field, UMass Dartmouth
+ Scott Field and Dr.
+ Gaurav Khanna, UMass Dartmouth
 \series default
 \size default
 
@@ -1449,6 +1449,10 @@ Attended
 \begin_inset Text
 
 \begin_layout Itemize
+Capra 25 Workshop
+\end_layout
+
+\begin_layout Itemize
 APS April meeting in New York City.
 \end_layout
 
@@ -1518,6 +1522,15 @@ Talks given
 </cell>
 <cell alignment="center" valignment="top" usebox="none">
 \begin_inset Text
+
+\begin_layout Itemize
+Presented my work at the Numerical Relativity Community Summer School at
+ ICERM, Brown University in Providence, Rhode Island, USA
+\end_layout
+
+\begin_layout Itemize
+Presented my work virtually at the Capra 25 held in Dublin, Ireland.
+\end_layout
 
 \begin_layout Itemize
 Presented my Ph.D.
