@@ -1401,10 +1401,6 @@ JEE,
 Conferences and Workshops
 \bar default
  :
-\begin_inset Newline linebreak
-\end_inset
-
-
 \end_layout
 
 \end_inset
@@ -1432,6 +1428,122 @@ hrule height 1mm}%
 \end_inset
 
 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\color cyan
+Talks/posters
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Itemize
+Gave an invited talk at MIT on September 11, 2023
+\end_layout
+
+\begin_layout Itemize
+Gave an invited talk at Infinity on a Gridshell workshop held in Copenhagen,
+ Denmark
+\end_layout
+
+\begin_layout Itemize
+Presented my research project at 26
+\begin_inset Formula $^{th}$
+\end_inset
+
+ Capra meeting held in Copenhagen, Denmark
+\end_layout
+
+\begin_layout Itemize
+Gave a talk on my research during my visit to Albert Einstein Institute
+ in Potsdam
+\end_layout
+
+\begin_layout Itemize
+Presented my Ph.D.
+ project at 
+\begin_inset CommandInset href
+LatexCommand href
+name "APS April meeting"
+target "https://meetings.aps.org/Meeting/APR23/Session/K08.4"
+literal "false"
+
+\end_inset
+
+ in Minneapolis.
+\end_layout
+
+\begin_layout Itemize
+Presented a poster on my Ph.D.
+ project at Sigma Xi research exhibit at UMass Dartmouth
+\end_layout
+
+\begin_layout Itemize
+Gave an invited talk at University of Amsterdam on March 06, 2023.
+\end_layout
+
+\begin_layout Itemize
+Gave an invited talk at Utrecht University on March 07, 2023.
+\end_layout
+
+\begin_layout Itemize
+Presented my work at the Numerical Relativity Community Summer School at
+ ICERM, Brown University in Providence, Rhode Island, USA
+\end_layout
+
+\begin_layout Itemize
+Presented my work virtually at the Capra 25 held in Dublin, Ireland.
+\end_layout
+
+\begin_layout Itemize
+Presented my Ph.D.
+ project at 
+\begin_inset CommandInset href
+LatexCommand href
+name "APS April meeting"
+target "https://meetings.aps.org/Meeting/APR22/Session/T16.4"
+literal "false"
+
+\end_inset
+
+ in New York City.
+\end_layout
+
+\begin_layout Itemize
+Presented my work over summer of 2020 at 
+\begin_inset CommandInset href
+LatexCommand href
+name "UMassD Physics colloquium"
+target "http://cscvr1.umassd.edu/seminars.html"
+literal "false"
+
+\end_inset
+
+ (September 3, 2020)
+\end_layout
+
+\begin_layout Itemize
+Gave an introductory talk on LISA and EMRI waveforms in 
+\begin_inset CommandInset href
+LatexCommand href
+name "Mini-Astro Workshop"
+target "https://sites.google.com/view/surendrapadamata/mini-astro-workshop"
+literal "false"
+
+\end_inset
+
+ (October 6, 2020)
 \end_layout
 
 \end_inset
@@ -1527,100 +1639,6 @@ Quantum Information and Quantum Technology (QIQT) 2019 at IISER Kolkata
 \end_inset
 
 
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\color cyan
-Talks/posters
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Itemize
-Presented my Ph.D.
- project at 
-\begin_inset CommandInset href
-LatexCommand href
-name "APS April meeting"
-target "https://meetings.aps.org/Meeting/APR23/Session/K08.4"
-literal "false"
-
-\end_inset
-
- in Minneapolis.
-\end_layout
-
-\begin_layout Itemize
-Presented a poster on my Ph.D.
- project at Sigma Xi research exhibit at UMass Dartmouth
-\end_layout
-
-\begin_layout Itemize
-Gave an invited talk at University of Amsterdam on March 06, 2023.
-\end_layout
-
-\begin_layout Itemize
-Gave an invited talk at Utrecht University on March 07, 2023.
-\end_layout
-
-\begin_layout Itemize
-Presented my work at the Numerical Relativity Community Summer School at
- ICERM, Brown University in Providence, Rhode Island, USA
-\end_layout
-
-\begin_layout Itemize
-Presented my work virtually at the Capra 25 held in Dublin, Ireland.
-\end_layout
-
-\begin_layout Itemize
-Presented my Ph.D.
- project at 
-\begin_inset CommandInset href
-LatexCommand href
-name "APS April meeting"
-target "https://meetings.aps.org/Meeting/APR22/Session/T16.4"
-literal "false"
-
-\end_inset
-
- in New York City.
-\end_layout
-
-\begin_layout Itemize
-Presented my work over summer of 2020 at 
-\begin_inset CommandInset href
-LatexCommand href
-name "UMassD Physics colloquium"
-target "http://cscvr1.umassd.edu/seminars.html"
-literal "false"
-
-\end_inset
-
- (September 3, 2020)
-\end_layout
-
-\begin_layout Itemize
-Gave an introductory talk on LISA and EMRI waveforms in 
-\begin_inset CommandInset href
-LatexCommand href
-name "Mini-Astro Workshop"
-target "https://sites.google.com/view/surendrapadamata/mini-astro-workshop"
-literal "false"
-
-\end_inset
-
- (October 6, 2020)
 \end_layout
 
 \end_inset
