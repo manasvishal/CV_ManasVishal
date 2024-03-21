@@ -1,0 +1,64 @@
+Manas Vishal
+(774) 503-5824	|	vishalmanas28@gmail.com	|	https://www.linkedin.com/in/manasvishal
+
+EDUCATION
+
+University of Massachusetts Dartmouth 
+PhD, Computational Sciences and Engineering (STEM)							 Expected May 2025
+Award: Distinguished Doctoral Fellowship | GPA: 4.0
+	
+Indian Institute of Science Education and Research Kolkata
+Bachelor and Master of Science, Physics 		   June 2021
+Award: Merit-based scholarship, GPA: 3.5
+EXPERIENCE
+Center for Scientific Computing and Data Science Research, UMass Dartmouth
+Research Assistant	    Sep 2021 - Present
+• Formulate a robust mathematical model to simulate astrophysical binaries. Record and retrieve financial and client information into recordkeeping system 
+• Develop a codebase from scratch for numerical simulations of astrophysical binaries using high performance mathematical models.
+• Prototype MATLAB code runs 90 times faster and 108 times accurate than current state of art
+• Assist junior researchers to develop numerical and analytical skills for black holes simulations.
+
+NSF Careers, Yale Center for Resea?rch Computing
+High Performance Computing Student Facilitator                                                                                            May 2023 – June 2023
+• Translated a prototype MATLAB code to an efficient C++ codebase
+• Benchmarked C++ codebase across multiple platforms.
+• Implemented unit and regression tests to the codebase
+
+Albert Einstein Institute, Max Planck Institute of Gravitational Physics, Potsdam, Germany
+Data Scientist                                                                                                                                                        May 2023 – June 2023
+• Accelerated the simulation time of binary black holes using a data driven approach
+• Got a hands-on experience in working with big time series data.
+
+Numerical Relativity Summer School, ICERM, Brown University, Providence, Rhode Island
+Python Programmer and Data Analyst	May 2023 – June 2023
+• Analyzed the time series data to extract relevant physics information
+• Got a hands-on experience in working with big time series data.
+PUBLICATIONS and PRESENTATIONS 
+
+• First author paper on highly efficient simulation of astrophysical objects (https://arxiv.org/abs/2307.01349) [with referee]
+• Invited talk at MIT on September 11, 2023
+• Invited talk at Infinity on a Gridshell workshop held in Copenhagen, Denmark
+• Presented my research on astrophysics simulations at Albert Einstein Institute in Potsdam, Germany 
+AWARDS
+
+Distinguished Doctoral Fellowship
+University of Massachusetts Dartmouth								 	     Sep 2021
+Highest fellowship offered to only 10 students by UMass Dartmouth that aided my doctoral research in black hole physics
+	
+Kishore Vaigyanik Protsahan Yojna Fellowship
+Government of India 		     Aug 2017
+Fellowship granted to top 1% nationally of highly motivated and skilled students to pursue a career in pure sciences
+
+Inspire Award,
+Department of Science and Technology, India 		     Aug 2017
+Scholarship to continue a career in basic sciences
+SKILLS
+
+ Programming Languages: Proficient in Python, C, C++, R, HTML & TeX and Intermediate in Julia, SQL & PHP
+ Software: MATLAB, Mathematica, Origin, Gnuplot, ImageJ, LaTeX, Android Studio
+
+LEADERSHIP EXPERIENCE
+
+* Organize the first ever hackathon of University of Massachusetts Dartmouth on April 13, 2024.
+* Led the multimedia and web technology team of Inquivesta, the largest science fest of India. Moreover, developed the android application for the event handling transactions.
+
